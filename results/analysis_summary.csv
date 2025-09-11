@@ -1,0 +1,7 @@
+"Metric","Count"
+"Total genes",67
+"Significant genes (FDR < 0.05)",3
+"Up-regulated",3
+"Down-regulated",0
+"Very significant (FDR < 0.001)",1
+"Large effect (|logFC| > 2)",1

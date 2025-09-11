@@ -1,0 +1,15 @@
+Status	alignments/control_1.sorted.bam	alignments/control_2.sorted.bam	alignments/control_3.sorted.bam	alignments/treatment_1.sorted.bam	alignments/treatment_2.sorted.bam	alignments/treatment_3.sorted.bam
+Assigned	32827	61140	30360	14221	17521	21340
+Unassigned_Unmapped	128907	130242	144272	169707	136075	152011
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	8637	9451	9386	7825	8575	8190
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	8726	7018	1704	940	14524	1303
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	15477066	15348847	15570379	15286945	15652959	15705821
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	4346	4258	1251	907	1559	1086

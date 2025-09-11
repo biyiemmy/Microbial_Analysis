@@ -1,0 +1,39 @@
+# === IGNORE LARGE DATA & RESULTS FOLDERS ===
+# Raw data is too large for GitHub. Only push processed summaries.
+raw_data/
+trimmed_data/
+alignments/  # .bam files are huge
+results/     # Push only final results, not all plots
+
+# === IGNORE SEQUENCE DATA & ALIGNMENT FILES ===
+*.fastq
+*.fq
+*.bam
+*.bai
+*.sam
+
+# === IGNORE REFERENCE GENOME FILES ===
+*.fna
+*.fasta
+*.fa
+*.gtf
+*.idx
+*.bt2  # Bowtie2 index files
+
+# === IGNORE R PLOTS & TEMPORARY FILES ===
+*.png
+*.pdf
+*.RData
+*.Rhistory
+*.rds
+
+# === IGNORE PYTHON TEMPORARY FILES ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === IGNORE LOGS & SYSTEM FILES ===
+*.log
+*.out
+.DS_Store
+Thumbs.db

@@ -688,7 +688,6 @@ This study has identified **tRNA-mediated protein synthesis as a key adaptive pa
 
 **Contact:**
 - GitHub: [github.com/biyiemmy](https://github.com/biyiemmy)
-- Email: your.email@example.com
 - LinkedIn: [Emmanuel Adebiyi](https://www.linkedin.com/in/adebiyiemmanuel/)
 
 **Acknowledgments:**

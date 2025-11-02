@@ -21,7 +21,6 @@ results/     # Push only final results, not all plots
 *.bt2  # Bowtie2 index files
 
 # === IGNORE R PLOTS & TEMPORARY FILES ===
-*.png
 *.pdf
 *.RData
 *.Rhistory

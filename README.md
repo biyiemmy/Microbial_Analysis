@@ -531,7 +531,7 @@ pd.DataFrame(annotations).to_csv("results/NCBI_Final_Annotations.csv", index=Fal
 - **Reproducibility:** All three replicates per condition show similar patterns
 
 ### Figure 2: Heatmap of Top 20 Significant DEGs
-![Heatmap Top 20 DEGs](images/heatmap_top20_DEGs.png)
+![Heatmap Top 20 DEGs](images/heatmap.png)
 
 **Description:** Zoomed-in view of the 20 most significant genes impacted by sodium propionate treatment.
 - **Gene T00026:** Clearly upregulated in treatment group
